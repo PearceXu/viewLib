@@ -9,7 +9,7 @@
     app:layout_behavior="@string/appbar_scrolling_view_behavior"
     tools:showIn="@layout/activity_main" tools:context=".MainActivity">
 
-<com.xubaipei.viewlib.ClockView
+<com.xubaipei.viewlib.widget.ClockView
     android:layout_width="wrap_content"
     android:layout_height="wrap_content" />
 </RelativeLayout>

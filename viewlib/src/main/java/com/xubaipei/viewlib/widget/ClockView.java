@@ -1,4 +1,4 @@
-package com.xubaipei.viewlib;
+package com.xubaipei.viewlib.widget;
 import android.content.Context;
 import android.graphics.Canvas;
 import android.graphics.Color;
